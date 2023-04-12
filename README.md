@@ -13,3 +13,12 @@ Veja  mais em  [Dashboard 1](https://app.powerbi.com/view?r=eyJrIjoiNmQ3NmYwY2Et
 ![dashboard  1  pdf!](/arquivos/dash_3.pdf "dashboard 1")
 
 
+Veja mais em [dashboard  2](https://app.powerbi.com/view?r=eyJrIjoiMzZlMjlhYmItYTZlMy00YWVhLThjMjYtOGUwMGQxYWQ4MTJkIiwidCI6ImM1NDJmYTZlLTc1NjMtNDdjMi04N2RjLTFkZDkxNzc4YjJlNiJ9)
+
+![dashboard  2  pdf!](/arquivos/dash_4.pdf  "dashboard  2")
+
+Veja mais em [dashboard  3](https://app.powerbi.com/view?r=eyJrIjoiNWM3NGFjYjQtMGRjNC00ZTAzLTg3MDUtZjU2OTUwNmY3ZTkzIiwidCI6ImM1NDJmYTZlLTc1NjMtNDdjMi04N2RjLTFkZDkxNzc4YjJlNiJ9)
+
+![dashboard  3  pdf  a!](/arquivos/dash_5_a.pdf  "dashboard  3")
+
+![dashboard  3  pdf  b!](/arquivos/dash_5_b.pdf  "dashboard  3")
