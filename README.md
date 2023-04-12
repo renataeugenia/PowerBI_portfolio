@@ -10,6 +10,6 @@ Neste repositório apresento projetos feitos a partir do meu primeiro contato co
 
 Veja  mais em  [Dashboard 1](https://app.powerbi.com/view?r=eyJrIjoiNmQ3NmYwY2EtMGQ2MC00NzQyLTkyZDItNWQxOTc4NjRlMTc1IiwidCI6ImM1NDJmYTZlLTc1NjMtNDdjMi04N2RjLTFkZDkxNzc4YjJlNiJ9)
 
-![dashboard 1!](/arquivos/dash_3.pdf)
+![dashboard  1  pdf!](/arquivos/dash_3.pdf "dashboard 1")
 
 
